@@ -16,7 +16,7 @@ zeobot:
     listen_to:
       users:
         - TeodorHMX1
-        - Teogor
+        - dolphpire-manager
   # zeobot's features
   features:
     # if enabled, zeobot will post comments
@@ -37,7 +37,7 @@ auto_assign:
   assignee_groups:
   reviewers_to_add:
     - TeodorHMX1
-    - Teogor
+    - dolphpire-manager
   assignees_to_add:
   skip_keywords:
 
